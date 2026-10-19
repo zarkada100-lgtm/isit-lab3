@@ -85,17 +85,20 @@
 ## Шаг 5. Структура проекта
 
 ```
-project/
-├── frontend/
-├── backend/
-│   ├── controllers/
-│   ├── services/
-│   ├── repositories/
-│   ├── models/
-│   └── routes/
-├── database/
-├── docs/
-└── README.md
+main/
+├── lab-1/
+├── lab-2/
+└── lab-3/
+    ├── docs/
+    └── project/
+        ├── frontend/
+        ├── backend/
+        │   ├── controllers/
+        │   ├── services/
+        │   ├── repositories/
+        │   ├── models/
+        │   └── routes/
+        └── database/
 ```
 
 ---
